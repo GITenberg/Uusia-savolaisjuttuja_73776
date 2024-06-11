@@ -1,0 +1,31 @@
+_repo: Uusia-savolaisjuttuja_73776
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rissanen, Santeri
+    aliases:
+    - Rissanen, Aino Aleksanteri
+    - Samppa, Sav'ojan
+    birthdate: 1880
+    deathdate: 1939
+    gutenberg_agent_id: '57154'
+    url: http://www.gutenberg.org/2009/agents/57154
+    wikipedia: https://fi.wikipedia.org/wiki/Santeri_Rissanen
+description: ''
+gutenberg_issued: '2024-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73776'
+language: fi
+pgterms:marc905: 20240522025626author
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Uusia savolaisjuttuja
+url: http://www.gutenberg.org/ebooks/73776
